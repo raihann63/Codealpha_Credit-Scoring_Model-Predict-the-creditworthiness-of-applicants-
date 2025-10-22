@@ -18,13 +18,13 @@ Machine Learning Algorithms: Decision Tree, Random Forest, XGBoost
 
 Tools: Jupyter Notebook
 
-📈 Key Features:
+Key Features:
 
-✅ Data cleaning and preprocessing
-✅ Feature selection and correlation analysis
-✅ Model training and hyperparameter tuning
-✅ Predictive interface to test applicant creditworthiness
-✅ Balanced dataset using SMOTE to improve fairness in predictions
+Data cleaning and preprocessing
+Feature selection and correlation analysis
+Model training and hyperparameter tuning
+Predictive interface to test applicant creditworthiness
+Balanced dataset using SMOTE to improve fairness in predictions
 
 Model Output:
 
